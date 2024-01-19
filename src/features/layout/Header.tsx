@@ -9,7 +9,7 @@ export const Header = async () => {
   return (
     <header className="border-b border-b-accent fixed top-0 z-40 bg-background w-full">
       <div className="container flex items items-center py-2 max-w-lg m-auto gap-1">
-        <h2 className="text-2xl font-bold mr-auto">Thread-Enolc</h2>
+        <h2 className="text-2xl font-bold mr-auto">Thread-clone</h2>
         {session ? <UserProfil /> : <LoginButton />}
         <ThemeToggle />
       </div>
