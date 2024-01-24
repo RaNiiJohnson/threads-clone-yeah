@@ -4,7 +4,7 @@
 
 Threads-clone-yeah est un clone de Threads, un site de discussion en ligne. Il permet aux utilisateurs de poster des messages, et de commenter les messages des autres.
 
-L'authentification est assurée par GitHub uniquement.
+L'authentification est assurée par GitHub.
 
 
 ## Utilisation
