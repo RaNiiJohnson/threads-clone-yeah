@@ -9,10 +9,6 @@ L'authentification est assurée par GitHub.
 
 ## Utilisation
 
-rendez-vous sur le lien suivant :
-
-[https://threads-clone-yeah.vercel.app/](https://threads-clone-yeah.vercel.app/)
-
 Pour utiliser Threads-Clone-Yeah, rendez-vous sur le lien suivant : [threads-clone-yeah](https://threads-clone-yeah.vercel.app/) ,vous devez vous connecter à GitHub. Une fois connecté, vous pouvez créer un fil de discussion, poster un message, ou commenter un message.
 
 Voici quelques exemples de l'utilisation de Threads-Clone-Yeah :
